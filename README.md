@@ -9,7 +9,7 @@ Afterwards you can simply use `flutter channel [master|dev|beta|stable]` to swit
 ## Installing
 
 ```
-brew tap flschweiger/flutter
+brew tap tgrf/flutter
 brew cask install flutter
 ```
 
@@ -20,7 +20,7 @@ FYI: You will find your Flutter installation here: `/usr/local/Caskroom/flutter/
 ## Uninstalling
 ```
 brew cask uninstall flutter
-brew untap flschweiger/flutter
+brew untap tgrf/flutter
 ```
 
 That's already it :put_litter_in_its_place:
